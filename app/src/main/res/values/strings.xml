@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QrGenerator</string>
+    <string name="scanner">Сканировать</string>
+    <string name="generate">Сгенерировать</string>
+</resources>
